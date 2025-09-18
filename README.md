@@ -45,7 +45,7 @@ I'm a high school student with a passion for developing and exploring the endles
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=ZetsouNoShub&theme=orange-white" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ZetsuoNoShub&theme=orange-white" alt="GitHub Streak" />
 </p>
 
 ---
