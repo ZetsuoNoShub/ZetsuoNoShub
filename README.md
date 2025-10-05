@@ -13,7 +13,7 @@
   <a href="https://youtube.com/@Tarnished_Shubh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://x.com/S_Profession4l" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/ZetsuoNoShub" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.chess.com/member/professor_francisco" target="_blank" rel="noopener noreferrer">
