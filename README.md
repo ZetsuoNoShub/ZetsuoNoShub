@@ -39,7 +39,6 @@ I'm a high school student with a passion for developing and exploring the endles
 - 📚 Novel reader, sketch artist, and occasional skater
 - ☕ Coffee addict, night owl, and hobbyist chef
 - 🕹️ I enjoy playing games with my friends
-- 
 ---
 
 ### 📊 GitHub Stats
