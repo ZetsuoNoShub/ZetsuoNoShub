@@ -16,9 +16,7 @@
   <a href="https://x.com/ZetsuoNoShub" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.chess.com/member/professor_francisco" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/♞_Chess.com-3B9A57?style=for-the-badge&logoColor=white" alt="Chess.com" />
-  </a>
+   
   <a href="mailto:shub.professional@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red&color=FFFFFF&labelColor=FFFFFF" alt="Email" />
   </a>
@@ -35,10 +33,11 @@ I'm a high school student with a passion for developing and exploring the endles
 
 **A few of my hobbies:**
 - 🎸 I play guitar and love music (especially while coding)
-- ♟️ Chess enthusiast — catch me on [Chess.com](https://www.chess.com/member/professor_francisco)
+- ♟️ Chess enthusiast
 - 📚 Novel reader, sketch artist, and occasional skater
 - ☕ Coffee addict, night owl, and hobbyist chef
 - 🕹️ I enjoy playing games with my friends
+- 🖋️ Teaching to the less fortunate kids    
 ---
 
 ### 📊 GitHub Stats
