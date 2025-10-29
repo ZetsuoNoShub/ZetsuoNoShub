@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/c3o" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/shub.is.a.sailor/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -37,8 +37,7 @@ I'm a high school student with a passion for developing and exploring the endles
 - 📚 Novel reader, sketch artist, and occasional skater
 - ☕ Coffee addict, night owl, and hobbyist chef
 - 🕹️ I enjoy playing games with my friends
-- 🖋️ Teaching to the less fortunate kids    
----
+- 🖋️ **Volunteering to teach underprivileged students for free** ---
 
 ### 📊 GitHub Stats
 
