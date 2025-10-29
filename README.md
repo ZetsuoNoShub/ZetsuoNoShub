@@ -1,4 +1,4 @@
-œ### 🌐 Connect with me
+### 🌐 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/c3o" target="_blank" rel="noopener noreferrer">
@@ -36,7 +36,6 @@ I'm a high school student with a passion for developing and exploring the endles
 - ♟️ Chess enthusiast
 - 📚 Novel reader, sketch artist, and occasional skater
 - ☕ Coffee addict, night owl, and hobbyist chef
-- 🕹️ I enjoy playing games with my friends
 - 🖋️ **Volunteering to teach underprivileged students for free** 
 ---
 
