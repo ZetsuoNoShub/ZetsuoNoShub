@@ -1,4 +1,3 @@
-### 🌐 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/c3o" target="_blank" rel="noopener noreferrer">
@@ -22,27 +21,13 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
+<h1 align="center">Shubham Mishra</h1>
 <p align="center">High School Student</p>
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a high school student with a passion for developing and exploring the endless possibilities of code.
-
-**A few of my hobbies:**
-- 🎸 I play guitar and love music (especially while coding)
-- ♟️ Chess enthusiast
-- 📚 Novel reader, sketch artist, and occasional skater
-- ☕ Coffee addict, night owl, and hobbyist chef
-- 🖋️ **Volunteering to teach underprivileged students for free** 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=ZetsuoNoShub&theme=orange-white" alt="GitHub Streak" />
-</p>
 
 ---
