@@ -24,10 +24,9 @@
 <h1 align="center">Shubham Mishra</h1>
 <p align="center">High School Student</p>
 
----
 
 ## About Me
 
-I'm a high school student with a passion for developing and exploring the endless possibilities of code.
-
 ---
+
+I'm a high school student with a passion for developing and exploring the endless possibilities of code.
